@@ -18,16 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: First Contributions at devncode
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Make your first open source contribution in 5 minutes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+social:
+  - title: "twitter"
+    url: "https://twitter.com/devncode17"
+  - title: "facebook"
+    url: "facebook.com/devncode17"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UC0_WFaOYjFrZH2zxwI4BZOQ/videos"
+  - title: "medium"
+    url: "https://medium.com/devncode"
+  - title: "github"
+    url: "https://github.com/smkamranqadri/devncode.tech"
 
 # Build settings
 theme: minima

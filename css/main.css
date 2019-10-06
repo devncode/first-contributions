@@ -1,0 +1,23 @@
+a {
+  color: #f79320 !important;
+}
+
+header.jumbotron {
+  background-color: #f79320;
+}
+
+header.jumbotron > h1 > a {
+  color: white !important;
+}
+
+.text-orange {
+  color: #f79320 !important;
+}
+
+footer {
+  padding: 2em 0;
+  margin: 3em 0;
+  border-top: 1px solid #ddd;
+  color: #999;
+  text-align: center;
+ }
