@@ -72,7 +72,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add contributions.yml
 ```
 
 Now commit those changes using the `git commit` command:
