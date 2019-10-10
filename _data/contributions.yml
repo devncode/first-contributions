@@ -11,9 +11,12 @@ devs:
   - github_url: "https://github.com/HalfStackZay"
     name: "Isaiah Miller"
     avatar: "https://avatars2.githubusercontent.com/u/36610810?s=400&u=08c92315d6eb7f03109d1bc7faa3c8c6d6929c9b&v=4"
-  - github_url: 'https://github.com/Mohammad-Quanit'
-    name: 'Mohammad Quanit 💻 '
-    avatar: 'https://avatars1.githubusercontent.com/u/32056694?s=460&v=4'
+  - github_url: "https://github.com/Mohammad-Quanit"
+    name: "Mohammad Quanit 💻 "
+    avatar: "https://avatars1.githubusercontent.com/u/32056694?s=460&v=4"
+  - github_url: "https://github.com/YousufQadri"
+    name: "Syed Yousuf Qadri"
+    avatar: "https://avatars1.githubusercontent.com/u/49168237?s=460&v=4"
   - github_url: "https://github.com/dipakchandranp"
     name: "Dipak Chandran"
     avatar: "https://avatars0.githubusercontent.com/u/5057513"
@@ -22,7 +25,7 @@ devs:
     avatar: "https://hc8fm03jtw-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/Pakistan-Web-Cat-2016.jpg"
   - github_url: "https://github.com/Huzaifaahmed20"
     name: "Huzaifa Ahmed 💻 "
-    avatar: "https://avatars2.githubusercontent.com/u/26674425?s=460&v=4" 
+    avatar: "https://avatars2.githubusercontent.com/u/26674425?s=460&v=4"
   - github_url: "https://github.com/st900278"
     name: "oberon"
     avatar: "https://imgur.com/p7rHxpR"
