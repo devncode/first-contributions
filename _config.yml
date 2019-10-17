@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/first-contributions" # the subpath of your site, e.g. /blog
 url: "https://devncode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+
 social:
   - title: "twitter"
     url: "https://twitter.com/devncode17"
