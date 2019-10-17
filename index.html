@@ -17,7 +17,13 @@ layout: default
     {% for dev in site.data.contributions.devs %}
       <div class="col-sm-2 mb-4">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="{{ dev.avatar }}" alt=""></a>
+          <a href="#">
+          {% if dev.avatar %}
+            <img class="card-img-top" src="{{ dev.avatar }}" alt="">
+          {% else %}
+            <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/9919?s=280&v=4" alt="">
+          {% endif %}
+          </a>
           <div class="card-body">
             <h5 class="card-title">
               <a href="#">{{ dev.name }}</a>
