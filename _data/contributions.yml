@@ -1,7 +1,7 @@
 devs:
   - github_url: "https://github.com/emjwivell"
     name: "Emily"
-    avatar: "https://avatars2.githubusercontent.com/u/16910302?s=460&v=4"    
+    avatar: "https://avatars2.githubusercontent.com/u/16910302?s=460&v=4"
   - github_url: "https://github.com/farhadmpr"
     name: "Farhad"
     avatar: "https://avatars2.githubusercontent.com/u/24851088?s=460&v=4"
@@ -197,3 +197,6 @@ devs:
   - github_url: "https://github.com/kuroyza"
     name: "Kuroyza"
     avatar: "https://avatars.githubusercontent.com/kuroyza"
+  - github_url: "https://github.com/aaghawaheed"
+    name: "Aagha Abdul Waheed"
+    avatar: "https://avatars.githubusercontent.com/aaghawaheed"
