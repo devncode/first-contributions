@@ -17,7 +17,7 @@ layout: default
     {% for dev in site.data.contributions.devs %}
       <div class="col-sm-2 mb-4">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="{{ dev.avatar }}"  onerror="this.onerror=null;this.src='{{site.baseurl}}/assets/images/default.jpeg'" alt=""></a>
+          <a href="#"><img class="card-img-top" src="{{ dev.avatar }}"  onerror="this.onerror=null;this.src='https://ui-avatars.com/api/?name={{ dev.name }}'" alt=""></a>
           <div class="card-body">
             <h5 class="card-title">
               <a href="#">{{ dev.name }}</a>
