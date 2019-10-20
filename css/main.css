@@ -24,4 +24,8 @@ footer {
   border-top: 1px solid #ddd;
   color: #999;
   text-align: center;
- }
+}
+
+.developer-name {
+  color: #2c3e50;
+}
