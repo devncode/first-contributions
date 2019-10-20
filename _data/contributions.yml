@@ -1,7 +1,4 @@
 devs:
-  - github_url: "https://github.com/TaimoorSaeed"
-    name: "Taimoor Saeed"
-    avatar: "https://avatars2.githubusercontent.com/u/4158494?s=460&v=4"
   - github_url: "https://github.com/emjwivell"
     name: "Emily"
     avatar: "https://avatars2.githubusercontent.com/u/16910302?s=460&v=4"    
@@ -158,7 +155,6 @@ devs:
   - github_url: "https://github.com/valdemirfilho"
     name: "Valdemir Filho"
     avatar: "https://avatars2.githubusercontent.com/u/6961638?s=460&v=4"
-    avatar: "https://avatars3.githubusercontent.com/u/47946110?s=460&v=4"
   - github_url: "https://github.com/mariapujirahayu"
     name: "Maria Puji Rahayu"
     avatar: "https://avatars2.githubusercontent.com/u/42793603?s=400&v=4"
