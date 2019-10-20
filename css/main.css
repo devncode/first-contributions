@@ -2,6 +2,10 @@ a {
   color: #f79320 !important;
 }
 
+a:hover{
+  color:#2c3e50;
+}
+
 header.jumbotron {
   background-color: #f79320;
 }
