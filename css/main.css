@@ -1,8 +1,11 @@
 a {
   color: #f79320 !important;
 }
-
-a:hover{
+#link-color{
+  text-decoration: none;
+  color: black;
+}
+#link-color:hover{
   color:#2c3e50;
 }
 
