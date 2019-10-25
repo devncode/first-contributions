@@ -1,0 +1,8 @@
+<head>
+  <style>
+    a { color: #FF0000; } /* CSS link color */
+  </style>
+</head>
+<body>
+  <a href="http://example.com/">A Red Link</a>
+</body>
