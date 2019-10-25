@@ -1,7 +1,9 @@
-a {
+a:link,
+a:visited {
   color: #f79320 !important;
 }
 
+a:link,
 a:hover{
   color:#2c3e50;
 }
