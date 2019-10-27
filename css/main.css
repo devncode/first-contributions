@@ -29,3 +29,7 @@ footer {
 .developer-name {
   color: #2c3e50;
 }
+
+.links-hover:hover{
+  color: #2c3e50!important;
+}
