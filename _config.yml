@@ -21,8 +21,8 @@
 title: First Contributions at devncode
 description: >- # this means to ignore newlines until "baseurl:"
   Make your first open source contribution in 5 minutes
-baseurl: "/first-contributions" # the subpath of your site, e.g. /blog
-url: "https://devncode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "first-contributions.devncode.tech" # the base hostname & protocol for your site, e.g. http://example.com
 
 social:
   - title: "twitter"
