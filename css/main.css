@@ -2,16 +2,21 @@ a {
   color: #f79320 !important;
 }
 
-a:hover{
-  color:#2c3e50;
-}
-
 header.jumbotron {
   background-color: #f79320;
 }
 
 header.jumbotron > h1 > a {
   color: white !important;
+}
+
+a {
+  transition: .3s ease;
+}
+
+header.jumbotron > h1 > a:hover,
+a:hover {
+  color: #2c3e50 !important;
 }
 
 .text-orange {
