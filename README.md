@@ -4,7 +4,7 @@
 
 # First Contribution
 
-- Thinking about doing open source contribution?
+- Thinking about doing an open source contribution?
 - Don't know where to start or how to do?
 - Looking for a simple repository to help you to get started?
 
@@ -30,7 +30,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone "URL you just copied"
 ```
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
@@ -67,7 +67,7 @@ git checkout -b add-muhammad
 
 ## Make necessary changes and commit those changes
 
-Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture url (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture URL (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
