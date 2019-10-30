@@ -16,7 +16,7 @@ a {
 
 header.jumbotron > h1 > a:hover,
 a:hover {
-  color: #2c3e50 !important;
+  color: #42f58a !important;
 }
 
 .text-orange {
@@ -36,5 +36,5 @@ footer {
 }
 
 .links-hover:hover{
-  color: #2c3e50!important;
+  color: #42f58a!important;
 }
