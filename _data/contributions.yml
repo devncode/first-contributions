@@ -49,7 +49,6 @@
     name: "Sunil Choudhary"
   - github_url: "https://github.com/mackdroid"
     name: "Hemanth"
-
     avatar: "https://avatars1.githubusercontent.com/u/21340531?s=460&v=4"
   - github_url: "https://github.com/kazmiali/"
     name: "Muhammad Ali Kazmi"
@@ -438,14 +437,12 @@
   - github_url: "https://github.com/adnanirfan"
     name: "Adnan Irfan 🇵🇰"
     avatar: "https://avatars0.githubusercontent.com/u/9200214?s=460&v=4"
-  
   - github_url: "https://github.com/mqpasta/"
     name: "Muhammad Qasim Pasta 🇵🇰"
     avatar: "https://avatars2.githubusercontent.com/u/3919093?s=460&v=4"
   - github_url: "https://github.com/Shikamaru-Nara1729"
     name: "Apoorva Dinesh Singh"
     avatar: "https://avatars1.githubusercontent.com/u/34515315?v=4"
-
   - github_url: "https://github.com/Jahnavi00"
     name: "Jahnavi Majji"
     avatar: "https://avatars0.githubusercontent.com/u/19327373?s=460&v=4"
@@ -458,6 +455,9 @@
   - github_url: "https://github.com/asadikhlas"
     name: "Asad Ikhlas 🇵🇰"
     avatar: "https://avatars3.githubusercontent.com/u/33983874?s=400&u=8a20d03757bbbe74ce75868da227668faca3b179&v=4"
+  - github_url: "https://github.com/SantanuxD"
+    name: "Santanu Biswas"
+    avatar: "https://avatars.githubusercontent.com/SantanuxD"
     github_url: "https://github.com/rahulgupta1999"
     name: "Rahul gupta"
     avatar: "https://avatars0.githubusercontent.com/u/42772012?s=400&u=301d0c8c1e5c7b48db95e31a499627553d7f864d&v=4"
