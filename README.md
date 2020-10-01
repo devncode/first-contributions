@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/devncode/first-contributions)](https://github.com/devncode/first-contributions/pulls)
 
-<h1 style="color: red">Just to be clear, pull request in this repo will not count in HacktoberFest</h1>
+<h2 style="color: red">Just to be clear, pull request in this repo will not count in HacktoberFest</h2>
 
 # First Contribution
 
