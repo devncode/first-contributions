@@ -7,11 +7,13 @@ header.jumbotron {
 }
 
 header.jumbotron > h1 > a {
-  color: white !important;
+  color: grey !important;
 }
 
 a {
-  transition: .3s ease;
+  transition: .2s ease;
+  color: blue;
+  text-decoration: none;
 }
 
 header.jumbotron > h1 > a:hover,
@@ -28,11 +30,16 @@ footer {
   margin: 3em 0;
   border-top: 1px solid #ddd;
   color: #999;
+  height: 300px;
+  font-size: 25px;
+  color: blue;
+  background-color: light-grey;
   text-align: center;
 }
 
 .developer-name {
-  color: #2c3e50;
+  color: dark-grey;
+  text-decoration: underline;
 }
 
 .links-hover:hover{
