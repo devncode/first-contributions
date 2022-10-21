@@ -4,9 +4,19 @@
 
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dglassmorphism card design</title>
+    <link rel="stylesheet" href="stylish.css">
+</head>
+<body>
 
 <div class="container">
-  <div class="row">
+  <div class="row" data-tilt data-tilt-scale="1.1" data-tilt-glare data-tilt-max-glare="0.2">
     <div class="col-sm mb-4 text-center">
       <strong class="text-orange">🎉 {{ site.data.contributions.devs | size }} developers who contributed to this open source project for the first time 🎉</strong>
     </div>
@@ -18,7 +28,7 @@ layout: default
       <div class="col-sm-2 mb-4">
         <div class="card h-100">
           <a href="#"><img class="card-img-top" src="{{ dev.avatar }}"  onerror="this.onerror=null;this.src='https://ui-avatars.com/api/?name={{ dev.name }}'" alt=""></a>
-          <div class="card-body">
+          <div class="card-body" data-tilt data-tilt-scale="1.1" data-tilt-glare data-tilt-max-glare="0.2">
             <h5 class="card-title">
               <p class="developer-name">{{ dev.name }}</p>
             </h5>
@@ -31,3 +41,8 @@ layout: default
     {% endfor %}
   </div>
 </div>
+<script src="vanilla-tilt.js"></script>
+    
+</body>
+</html>
+
