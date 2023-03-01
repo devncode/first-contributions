@@ -100,6 +100,7 @@ git push origin <add-your-branch-name>
 replace `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
+arabic
 
 Now if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
